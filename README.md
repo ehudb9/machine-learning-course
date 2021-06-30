@@ -1,3 +1,3 @@
 # machine-learning-course
-assignments douring the course.
-from spring 2021 IDC.
+Assignments douring the course.
+Spring-2021, IDC.
